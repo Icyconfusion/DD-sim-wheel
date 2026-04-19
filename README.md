@@ -2,6 +2,7 @@
 A Direct Drive (DD) wheel for simracing using a hoverboard motor and CAN bus.
 
 I designed this wheel for simracing, to compete with high end direct drive wheels that offer great quality force feedback, except with a much lower price. The wheel has the capability to connect wheel rims, pedals, shifters, handbrakes etc and send those inputs, along with steering position to the PC as game inputs. In creating this project, I learned a lot about motor control and half bridge drivers.
+<img width="939" height="691" alt="image" src="https://github.com/user-attachments/assets/09fcc837-f3d1-4af6-9a3a-dece3392ec9a" />
 
 # Assembly
 
